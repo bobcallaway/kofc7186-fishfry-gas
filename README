@@ -1,0 +1,7 @@
+# login
+clasp login
+
+#clasp clone <script_id>
+script_id found in project properties under "info"
+
+
